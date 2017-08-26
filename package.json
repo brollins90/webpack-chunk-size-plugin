@@ -1,6 +1,6 @@
 {
   "name": "webpack-chunk-size-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Outputs a file with assets names and sizes for record keeping.",
   "main": "lib/index.js",
   "scripts": {
@@ -38,7 +38,7 @@
   },
   "eslintConfig": {
     "env": {
-        "node": true
+      "node": true
     },
     "extends": "eslint:recommended",
     "parser": "babel-eslint",
